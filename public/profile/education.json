@@ -1,0 +1,13 @@
+{
+    "education":[
+        {
+            "title": "October 2020 - Expected July 2024",
+            "cardTitle": "HCMC University of Technology and Education",
+            "cardSubtitle":"Bachelor of Infomation Technology",
+            "cardDetailedText": "GPA: 8.63/10 (~3.42/4.0)",
+            "icon" : {
+                "src": "images/education/hcmute.png"
+            }
+        }
+    ]
+}

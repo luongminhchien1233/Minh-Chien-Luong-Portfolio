@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/minh-chien-96a189223/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/luongminhchien1233"
+        },
+        {
+            "network" : "email",
+            "href": "mailto:luongminhchien2@gmail.com"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/tapaway.png",
+            "title": "Oct 2023 - Dec 2023 : Tap Away: Tap Block Out [Not Available on Google Play]",
+            "bodyText": "- Collaborate with Product Owners, Game Designers, Artists and QA team to develop the game from level design, game algorithm, Game UI. Integrate Plugins to launch projects such as: Firebase, AdMob, In-app Purchasing\n -  Build games to Android and IOS platform, conducted testing, and resolved issues for optimal performance.\n -  Develop outstanding features such as: interactive gameplay with piano songs, 3D map building, UI effects, etc",
+            "links": [
+                {
+                    "text": "Get APK",
+                    "href": "https://drive.google.com/file/d/1ttL99imQH7V7cYIC6ydWgot0F5NoW9hW/view?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Unity",
+                "Problem Solving",
+                "Firebase",
+                "Ads",
+                "In-app Purchasing",
+                "Performance Optimization"
+            ]
+        },
+        {
+            "image" : "images/projects/woodnut.png",
+            "title": "Feb 2024 - Apr 2024 : Wood Nuts Puzzle [Not Available on Google Play]",
+            "bodyText": "- Collaborate with Product Owners, Game Designers, Artists and QA team to develop the game from level design, game algorithm, Game UI. Integrate Plugins to launch projects such as: Firebase, AdMob, In-app Purchasing\n -  Conduct comprehensive testing to identify and resolve bugs and gameplay issues, significantly improving game performance and stability.Also optimize the user experience\n - Hotfixing bugs and issues, Size Optimization",
+            "links": [
+                {
+                    "text": "Get APK",
+                    "href": "https://drive.google.com/file/d/1CMDLLqkLn9xTJiMzXo8nvpq5IQE2lJA_/view?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Unity",
+                "Problem Solving",
+                "Firebase",
+                "Ads",
+                "In-app Purchasing",
+                "Performance Optimization",
+                "Shader"
+            ]
+        },
+        {
+            "image" : "images/projects/2player.png",
+            "title": "June 2023 - Sep 2023 : Two Player Game Battle",
+            "bodyText": "- Collaborated with Product Owners, Game Designers, Artists, and QA teams to develop engaging two-player competitive minigames, ensuring gameplay aligned with requirements.\n -  Updated game interfaces and art styles (reskinning) to match current trends upon request from the leader.\n - Hotfixing bugs and issues, Size Optimization \n - Handled minigames: Finger Battle, Fruit Duel, Guard and Thief \n - Optimize the experience, adjust the bot to attract new player : 4 In A Row, Beach Ball, Fruit Duel, Memory",
+            "links": [
+                {
+                    "text": "Store",
+                    "href": "https://play.google.com/store/apps/details?id=com.fc.be.pl.tow.player.challenge.minigames"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Unity",
+                "Problem Solving",
+                "Maintenance",
+                "Performance Optimization"
+            ]
+        },
+        {
+            "image" : "images/projects/offlinegame.png",
+            "title": "Feb 2024 - Mar 2024 : Mini Games: Player Challenge",
+            "bodyText": "- Collaborated with Product Owners, Game Designers, Artists, and QA teams to develop engaging two-player competitive minigames, ensuring gameplay aligned with requirements.\n - Integrate Plugins to launch projects such as: Firebase, AdMob, In-app Purchasing \n - Hotfixing bugs and issues, Size Optimization \n - Handled minigames: MEMORY, WORD GUEST, MINESWEEPER \n - Optimize the experience, adjust the bot to attract new player : 4 In A Row, Memory",
+            "links": [
+                {
+                    "text": "Store",
+                    "href": "https://play.google.com/store/apps/details?id=com.fc.dtn.mini.offlinegames.nowifi"
+                }
+            ],
+            "tags" : [
+                "C#",
+                "Unity",
+                "Problem Solving",
+                "OOP",
+                "Data Structure",
+                "Maintenance",
+                "Performance Optimization"
+            ]
+        }
+    ]
+}
